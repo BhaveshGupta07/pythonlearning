@@ -1,5 +1,5 @@
 import time
 start=time.time()
-for i in range(1,25)
+for i in range(1,25):
     print(i)
-print()
+print(start)
