@@ -1,4 +1,3 @@
 import random
 
-
-print(random.choice(2))
+print(random.randint(1,8))
